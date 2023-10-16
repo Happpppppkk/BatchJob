@@ -22,7 +22,8 @@ All functions are in main.go file, the usage of third party packages are gota th
 
 ## Test result
 The result coming from terminal are following:
-![Screenshot 2023-10-15 at 8 56 17 PM](https://github.com/Happpppppkk/BatchJob/assets/84537515/3e9f3a89-5ee4-424c-baff-9452e364b0f9)
+
+![Screenshot 2023-10-15 at 8 56 17 PM](https://github.com/Happpppppkk/BatchJob/assets/84537515/45339015-deaa-49bd-821d-135c76c2f624)
 
 Python code Processing time: 2.576463 seconds
 R code processing time:4.460835 seconds
