@@ -1,0 +1,64 @@
+Column: value
+count: 20640
+Mean: 206855.816909
+Median: 179700.000000
+Max: 500001.000000
+Min: 14999.000000
+Standard Deviation: 115392.820404
+
+
+ Column: income
+count: 20640
+Mean: 3.870671
+Median: 3.534800
+Max: 15.000100
+Min: 0.499900
+Standard Deviation: 1.899776
+
+
+ Column: age
+count: 20640
+Mean: 28.639486
+Median: 29.000000
+Max: 52.000000
+Min: 1.000000
+Standard Deviation: 12.585253
+
+
+ Column: rooms
+count: 20640
+Mean: 2635.763081
+Median: 2127.000000
+Max: 39320.000000
+Min: 2.000000
+Standard Deviation: 2181.562402
+
+
+ Column: bedrooms
+count: 20640
+Mean: 537.898014
+Median: 435.000000
+Max: 6445.000000
+Min: 1.000000
+Standard Deviation: 421.237701
+
+
+ Column: pop
+count: 20640
+Mean: 1425.476744
+Median: 1166.000000
+Max: 35682.000000
+Min: 3.000000
+Standard Deviation: 1132.434688
+
+
+ Column: hh
+count: 20640
+Mean: 499.539680
+Median: 409.000000
+Max: 6082.000000
+Min: 1.000000
+Standard Deviation: 382.320491
+
+
+ 
