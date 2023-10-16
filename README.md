@@ -22,7 +22,11 @@ All functions are in main.go file, the usage of third party packages are gota th
 
 ## Test result
 The result coming from terminal are following:
+![Screenshot 2023-10-15 at 8 56 17 PM](https://github.com/Happpppppkk/BatchJob/assets/84537515/3e9f3a89-5ee4-424c-baff-9452e364b0f9)
 
+Python code Processing time: 2.576463 seconds
+R code processing time:4.460835 seconds
+The Golang code processing time:4.20986464357
 
 The measurement are telling the best performance of python in this experiment and Go is slightly slower than Python. R is using the most processing time. Comparing to the assignment 1 where Go has the best performance, this experiment is not very well designed due to the usage of dataframe that is causing the slower process time in Go. Alternatively, to use efficient code, Ricardo Gerardi's colStats provides great outline for reading data from csv file.(https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/)
 
