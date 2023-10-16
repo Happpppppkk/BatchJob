@@ -4,11 +4,17 @@ A repo for Week 4 assignment, Go command line application that summarize input d
 ## Go, Python and R
 The folder contains three source files that perform input csv data reading, summarizing data of mean, count, median, standard deviations and iterating 100 times print out the processing time for each application.
 In batchJob.go, the application require user to input csv file name that already store in the path. This will allow user to choose which file they want to summarize. The application also ask user input for the iterations. In this assignement, the iteration throughout the three source files are 100.
+
 Example of the input:
+
 "Welcome to data summary application!"
+
 "Now, please enter the path of your CSV file"
+
 --housesInput.csv
+
 "How many time you want this summary to run?"
+
 --100
 
 In this experiment, we implement the dataframe as the data wrangling method and using stat package from the assignment one. The reason of using dataframe is that easier in readability and transit from python using to Go. But there is also a trade-off in the performance. 
